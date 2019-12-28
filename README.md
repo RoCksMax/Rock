@@ -1,4 +1,4 @@
-📮¦ اهلا بك في سورس ستورم 🍃
+📮¦ **Rocks**
 
 ٴ━━━━━━━━━━
 
@@ -10,7 +10,7 @@
 
 ⚜¦ انسخ رابط كيثاب السورس  ↡
 
-git clone https://github.com/NOVAR1/STORM.git; cd STORM;chmod +x tg;chmod +x STORM.sh;chmod +x SM.sh;./STORM.sh
+git clone https://github.com/rocksmax/Rock.git; cd Rock;chmod +x tg;chmod +x STORM.sh;chmod +x SM.sh;./STORM.sh
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
@@ -32,7 +32,7 @@ git clone https://github.com/NOVAR1/STORM.git; cd STORM;chmod +x tg;chmod +x STO
 
 💭¦ كود رن السورس
 
-cd STORM;./SM.sh
+cd Rock;./SM.sh
 
 💭¦ كود حذف السورس
 
